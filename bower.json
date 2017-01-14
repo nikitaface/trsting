@@ -1,0 +1,17 @@
+{
+  "name": "git",
+  "authors": [
+    "nikita <nikitaface@ukr.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
